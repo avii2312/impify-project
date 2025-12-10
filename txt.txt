@@ -1,0 +1,1 @@
+PassengerPython "/home/visasyst/virtualenv/public_html/impify.visasystem.in/backend/3.12/bin/python"
